@@ -1,20 +1,21 @@
 <h1 align="center">Hi there 👋, I'm Abraham</h1>
-<h3 align="center">💻 Full-Stack Developer | 🌍 Ethiopia | ⚡ Passionate about building real-world tech solutions</h3>
+<h3 align="center">💻 Full-Stack Developer | 🌍 Ethiopia | ⚡ Turning Ideas into Scalable Tech</h3>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on: **a Learning Management System (LMS) built with Next.js, Prisma, and PostgreSQL**
-- 🌱 I’m currently learning: **Flutter, Django, and advanced backend architecture**
-- 👯 I’m looking to collaborate on: **Open source, EdTech, and AI-integrated web apps**
-- 🤔 I’m looking for help with: **building production-grade scalable systems**
-- 💬 Ask me about: **Web development, backend design, APIs, or database modeling**
-- 📫 How to reach me: **[abrsh21son@gmail.com](mailto:abrshtoday@gmail.com)**
-- ⚡ Fun fact: **I love solving deep tech problems and turning big ideas into code**
+- 🔭 Currently working on: **a modern Learning Management System (LMS)** built with **Next.js, Prisma, PostgreSQL**
+- 🌱 Learning: **Flutter, Django, and advanced backend architecture**
+- 👯 Open to collaborate on: **Open Source, EdTech, and AI-integrated projects**
+- 🤔 Looking for help with: **scalable cloud-based systems and clean backend design**
+- 💬 Ask me about: **Web Dev, API design, Databases, and System Architecture**
+- 📫 Reach me at: **[abrsh21son@gmail.com](mailto:abrshtoday@gmail.com)**
+- ⚡ Fun fact: **I turn coffee ☕ into clean code and complex ideas into simple solutions**
 
 ---
 
 ### 🧠 Tech Stack
+
 #### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
@@ -33,82 +34,41 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Insights
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abrsh21son&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrsh21son&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abrsh21son&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrsh21son&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect with Me & 🏆 Achievements
+### 🏆 Achievements
 
 <p align="center">
-  <!-- Social Media Badges -->
-  <a href="https://t.me/abrsh21son" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/abrsh21son" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:abrshtoday@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/abrsh21son" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://facebook.com/abrsh21son" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://x.com/abrsh21son" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/~abrsh21son" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=abrsh21son&theme=tokyonight&margin-w=10&no-bg=true&no-frame=true&row=1" alt="GitHub Trophies"/>
 </p>
-
----
-
-<p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=abrsh21son&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
-</p>
-
 
 ---
 
 ### 🌐 Connect With Me
-<p align="center">
-  <a href="https://t.me/abrsh21son" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/abrahamshiferaw" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:abrshtoday@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/abrsh21son" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://facebook.com/abrsh21son" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://x.com/abrsh21son" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/~abrsh21son" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
-  </a>
-</p>
 
+<p align="center">
+  <a href="https://t.me/abrsh21son" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/abrahamshiferaw" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:abrshtoday@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://facebook.com/abrsh21son" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://x.com/abrsh21son" target="_blank"><img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://www.upwork.com/freelancers/~abrsh21son" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+</p>
 
 ---
 
 ### 💬 Quote
 > “Code is like humor. When you have to explain it, it’s bad.” — *Cory House*
 
----
-
-⭐️ *lets make the impossible possible with dedication , determination and consistency*
+⭐ *Let’s make the impossible possible — with dedication, determination, and consistency!*
