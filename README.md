@@ -166,31 +166,6 @@ I believe software should not only work—it should be **scalable, secure, maint
 
 
 
-# 📦 Featured Repositories
-
-> Replace the repository names below with your exact repository names.
-
-<p align="center">
-
-<a href="https://github.com/abrsh21son/RTCS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abrsh21son&repo=RTCS&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/abrsh21son/GreenPill-LMS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abrsh21son&repo=GreenPill-LMS&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/abrsh21son/National-ID-Processor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abrsh21son&repo=National-ID-Processor&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/abrsh21son/Nailwing">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abrsh21son&repo=Nailwing&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
----
 
 
 
@@ -200,46 +175,3 @@ I believe software should not only work—it should be **scalable, secure, maint
 
 
 
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="mailto:abrshtoday@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/abrahamshiferaw/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/abrsh21son">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-# 💬 Favorite Quote
-
-> **"Software engineering is not just about writing code—it's about designing solutions that create lasting impact."**
-
----
-
-<div align="center">
-
-## ⭐ Thanks for visiting my profile!
-
-If you like my work, consider ⭐ starring my repositories and connecting with me.
-
-### Happy Coding! 🚀
-
-</div>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
-
-</p>
