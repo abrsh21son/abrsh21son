@@ -50,6 +50,7 @@ I believe software should not only work—it should be **scalable, secure, maint
 # 🚀 What I'm Working On
 
 - 🤖 AI-powered Applications
+- 
 - 🧠 Large Language Model (LLM) Integrations
 - 🌐 Full-Stack Web Applications
 - ☁️ Cloud-native Systems
@@ -83,7 +84,7 @@ I believe software should not only work—it should be **scalable, secure, maint
 </p>
 
 ### Skills
-
+-three js
 - React.js
 - Next.js
 - Tailwind CSS
