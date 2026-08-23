@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,100:2563EB&text=Abraham%20Shiferaw&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Full-Stack%20Developer%20|%20AI%20Engineer&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,100:2563EB&text=Biset%20Misganew&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Full-Stack%20Developer%20|%20AI%20Engineer&descAlignY=58"/>
 
 # 👋 Hi, I'm Biset Misganew
 
