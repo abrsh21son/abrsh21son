@@ -28,24 +28,7 @@
 
 </div>
 
----
 
-# 💫 About Me
-
-I'm **Abraham Shiferaw**,  **Software Engineer**  dedicated to designing scalable, intelligent, and impactful software solutions.
-
-I enjoy building systems that combine **Software Engineering**, **Artificial Intelligence**, **Cloud Computing**, **Backend Engineering**, and **Modern Web Technologies** to solve real-world problems.
-
-🎓 **Bachelor of Science in Software Engineering**  
-**Bahir Dar University**
-
-🏆 **Graduated with GPA 3.84 / 4.00**
-
-🥈 Led the **Road Traffic Control System (RTCS)**, recognized as the **Second Best Final-Year Project** in the Faculty of Computing.
-
-I believe software should not only work—it should be **scalable, secure, maintainable, and create real impact.**
-
----
 
 # 🚀 What I'm Working On
 
