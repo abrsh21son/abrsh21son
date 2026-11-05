@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,100:2563EB&text=Abraham%20Shiferaw&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Full-Stack%20Developer%20|%20AI%20Engineer&descAlignY=58"/>
-
 # 👋 Hi, I'm Abraham Shiferaw
 
 ### Software Engineer • Full-Stack Developer • AI Engineer • Software Architect
@@ -30,33 +28,17 @@
 
 
 
-# 🚀 What I'm Working On
+#  What I'm Working On
 
-- 🤖 AI-powered Applications
+-  AI-powered Applications
 - 
-- 🧠 Large Language Model (LLM) Integrations
-- 🌐 Full-Stack Web Applications
-- ☁️ Cloud-native Systems
-- 📱 Flutter Mobile Applications
-- 🏗 Software Architecture
-- ⚡ High-performance Backend APIs
-- 🔍 Intelligent Automation Systems
-
----
-
-
-
-# 💻 Tech Stack
-
-## 🚀 Programming Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,dart,html,css"/>
-
-</p>
-
----
+-  Large Language Model (LLM) Integrations
+-  Full-Stack Web Applications
+-  Cloud-native Systems
+-  Flutter Mobile Applications
+-  Software Architecture
+-  High-performance Backend APIs
+-  Intelligent Automation Systems
 
 ## 🎨 Frontend Development
 
@@ -75,15 +57,9 @@
 - Responsive Design
 - Component-Based Development
 
----
 
 ## ⚙ Backend Development
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,django"/>
-
-</p>
 
 ### Skills
 
@@ -92,27 +68,9 @@
 - Django
 - Django REST Framework
 - REST APIs
-- GraphQL
 - JWT Authentication
 - OAuth
 - API Design
-- Authentication & Authorization
-
----
-
-
-## 📱 Mobile Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter"/>
-
-</p>
-
-- Flutter
-- Cross-platform Development
-
----
 
 ## 🤖 Artificial Intelligence
 
@@ -128,25 +86,8 @@
 - NumPy
 - Pandas
 
----
 
-## ☁ Cloud & DevOps
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel"/>
-
-</p>
-
-### Technologies
-
-- Docker
-- CI/CD
-- GitHub Actions
-- Software Architecture
-- Cloud Deployment
-- Distributed Systems
-- Microservices
 
 
 
