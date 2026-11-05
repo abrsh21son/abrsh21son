@@ -17,32 +17,23 @@ I'm Abraham Shiferaw
 </a>
 
 </p>
-
-
-
 </div>
 
 #  What I'm Working On
 
 -  AI-powered Applications
-- 
 -  Large Language Model (LLM) Integrations
 -  Full-Stack Web Applications
 -  Cloud-native Systems
--  Flutter Mobile Applications
 -  Software Architecture
 -  High-performance Backend APIs
 -  Intelligent Automation Systems
-
-## 🎨 Frontend Development
-
+## 🎨 Frontend Development Skills
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/>
 
 </p>
 
-### Skills
 -three js
 - React.js
 - Next.js
@@ -52,10 +43,7 @@ I'm Abraham Shiferaw
 - Component-Based Development
 
 
-## ⚙ Backend Development
-
-
-### Skills
+## ⚙ Backend Development Skills
 
 - Node.js
 - Express.js
