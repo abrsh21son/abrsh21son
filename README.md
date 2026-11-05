@@ -27,21 +27,9 @@ I'm Abraham Shiferaw
 -  Cloud-native Systems
 -  Software Architecture
 -  High-performance Backend APIs
--  Intelligent Automation Systems
-
-## 🤖 Artificial Intelligence
-
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Computer Vision
 - AI Automation
 - Prompt Engineering
-- AI Integration
-- LLM Applications
-- Scikit-Learn
-- NumPy
-- Pandas
+-AI training
 
 
 
