@@ -28,31 +28,6 @@ I'm Abraham Shiferaw
 -  Software Architecture
 -  High-performance Backend APIs
 -  Intelligent Automation Systems
-## 🎨 Frontend Development Skills
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/>
-
-</p>
-
--three js
-- React.js
-- Next.js
-- Tailwind CSS
-- Bootstrap
-- Responsive Design
-- Component-Based Development
-
-
-## ⚙ Backend Development Skills
-
-- Node.js
-- Express.js
-- Django
-- Django REST Framework
-- REST APIs
-- JWT Authentication
-- OAuth
-- API Design
 
 ## 🤖 Artificial Intelligence
 
