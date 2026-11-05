@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Abraham Shiferaw
+I'm Abraham Shiferaw
 
 ### Software Engineer • Full-Stack Developer • AI Engineer • Software Architect
 
