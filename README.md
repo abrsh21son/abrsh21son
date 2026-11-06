@@ -2,7 +2,7 @@
 
 I'm Abraham Shiferaw
 
-### Software Engineer • Full-Stack Developer • AI Engineer • Software Architect
+### Software Engineer • Full-Stack Developer • AI Engineer 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Engineer;Full-Stack+Developer;Backend+Engineer;Cloud+Computing+Enthusiast;Machine+Learning+Developer;Building+Scalable+Software;Always+Learning+New+Technologies"/>
 
